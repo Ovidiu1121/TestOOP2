@@ -9,6 +9,13 @@ namespace TestOOP2
     public interface IFigura
     {
 
+        void afisare();
+
+        void translatare(int x, int y);
+
+        IFigura duplicare();
+
 
     }
+
 }

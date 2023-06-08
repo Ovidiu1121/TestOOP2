@@ -1,0 +1,15 @@
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\TestOOP2.exe
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\TestOOP2.deps.json
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\TestOOP2.runtimeconfig.json
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\TestOOP2.dll
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\ref\TestOOP2.dll
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\bin\Debug\net6.0\TestOOP2.pdb
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.csproj.AssemblyReference.cache
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.AssemblyInfoInputs.cache
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.AssemblyInfo.cs
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.csproj.CoreCompileInputs.cache
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.dll
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\ref\TestOOP2.dll
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.pdb
+C:\Data\charp\Abstractizare\TestOOP2\TestOOP2\obj\Debug\net6.0\TestOOP2.genruntimeconfig.cache
